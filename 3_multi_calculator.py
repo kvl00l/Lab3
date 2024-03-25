@@ -1,6 +1,6 @@
 #Kevin
 
-#Calculator
+#Calculator adding 2 value
 
 sum = 0
 
