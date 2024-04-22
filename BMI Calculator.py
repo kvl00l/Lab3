@@ -14,6 +14,6 @@ while True:
 
     # 3. Output
     print(f"Your BMI is: {sum}")
-    res = input("Continue? (Yes/No): ")
-    if res == "No":
+    res = input("Continue? (yes/no): ")
+    if res == "no":
         break;
